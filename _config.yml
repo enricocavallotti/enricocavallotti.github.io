@@ -21,11 +21,11 @@ repository               : "http://github.com/enricocavallotti/enricocavallotti.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "_SY_9781reduced.png"
+  avatar           : "_SY_9781reduced.jpg"
   name             : "Enrico Cavallotti"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics"
-  location         : "College Green, Dublin, Ireland"
+  location         : "College Green, Dublin 2"
   employer         : "Trinity College Dublin"
   uri              : # URL
   email            : "cavalloe@tcd.ie" 
