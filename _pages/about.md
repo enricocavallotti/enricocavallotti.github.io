@@ -12,7 +12,7 @@ redirect_from:
   
 I am a PhD Candidate in Economics at [Trinity College Dublin](https://www.tcd.ie/Economics/), where I am also affiliated to the [Trinity Research in Social Sciences (TRiSS)](https://www.tcd.ie/triss/) research centre.
 
-My research interests lie in the area of **political economy**, **environmental economics**, and the economics of organized **crime**.
+I am an applied microeconomist with interests in **political economy**, **environmental economics**, and the **economics of organized crime**.
 
 Prior to my PhD studies, I obtained a MSc in Economics and Social Sciences from Bocconi University and a BSc in Economics, Markets and Institutions from the University of Bologna.
 
