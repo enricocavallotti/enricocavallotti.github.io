@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 <br>
-**Welcome to my website!**  
+## **Welcome to my website!**
   
-I am a PhD Candidate in Economics at [Trinity College Dublin](https://www.tcd.ie/Economics/). I am also affiliated to the [Trinity Research in Social Sciences (TRiSS)](https://www.tcd.ie/triss/).
+I am a PhD Candidate in Economics at [Trinity College Dublin](https://www.tcd.ie/Economics/), where I am also affiliated to the [Trinity Research in Social Sciences (TRiSS)](https://www.tcd.ie/triss/) research centre.
 
-My research interests lie in the area of political economy, environmental economics, and the economics of organized crime. In particular, I study how criminal enterprises adapt their business strategies in a changing climate. I also study the determinants of environmentalist voting and preferences, as well as the determinants of hate crimes. 
+My research interests lie in the area of **political economy**, **environmental economics**, and the economics of organized **crime**.
 
-Prior to my PhD studies, I obtained a BSc in Economics, Markets and Institutions from the University of Bologna and an MSc in Economics and Social Sciences from Bocconi University.
+Prior to my PhD studies, I obtained a MSc in Economics and Social Sciences from Bocconi University and a BSc in Economics, Markets and Institutions from the University of Bologna.
 
-On this website, you can learn about my research, teaching experience, and have a look at my CV.
+Here you can learn about my research, teaching experience, and have a look at my CV.
 
-You can also get in touch by emailing me at [cavalloe@tcd.ie](mailto:cavalloe@tcd.ie).
+You can also get in touch by emailing me at [cavalloe@tcd.ie](mailto:cavalloe@tcd.ie) or follow me on [Twitter](https://x.com/E_Cavallotti).
