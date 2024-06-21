@@ -21,7 +21,7 @@ repository               : "http://github.com/enricocavallotti/enricocavallotti.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "_SY_9781 reduced.png"
+  avatar           : "_SY_9781reduced.png"
   name             : "Enrico Cavallotti"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics"
