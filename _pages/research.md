@@ -6,17 +6,8 @@ permalink: /research/
 ---
 ### **Working Papers**
 
-<br>
-<font size="-1">
-**Green Collars at the Voting Booth: Material Interest and Environmentalist Voting**<br>
-*with Italo Colantone (Bocconi University), Piero Stanig (Bocconi University), and Francesco Vona (University of Milan & FEEM)*
-</font>
-<br>
-<font size="-2">
-**Status:** *Draft available upon request.*
-</font>
-<br><br>
+<p style="font-size: 2rem"><b>Green Collars at the Voting Booth: Material Interest and Environmentalist Voting</b></p><br><i>with Italo Colantone (Bocconi University), Piero Stanig (Bocconi University), Francesco Vona (University of Milan & FEEM)</i></p>
+<p style="font-size: 1rem"><b>Status:</b> <i>Draft avilable upon request.</i></p>
 
 
 ### **Work in Progress**
-
