@@ -25,7 +25,7 @@ permalink: /research/
 <br>
 
 <p style="font-size: 1rem"><b>Natural Disasters at Origin and Immigrants' Political Preferences at Destination</b></p>
-<p style="font-size: 0.8rem"><i>Joint with Jacopo Bassetto (Bologna Unversity), Teresa Freitas Monteiro (University of Copenhagen).</i></p>
+<p style="font-size: 0.8rem"><i>Joint with Jacopo Bassetto (Bologna University), Teresa Freitas Monteiro (University of Copenhagen).</i></p>
 
 
 <br>
