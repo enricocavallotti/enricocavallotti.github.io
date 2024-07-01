@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br>
+<img src="/images/trinity_3.HEIC" width="1000"/>
+
 ## **Welcome to my website!**
   
 I am a PhD Candidate in Economics at [Trinity College Dublin](https://www.tcd.ie/Economics/), where I am also affiliated to the [Trinity Research in Social Sciences (TRiSS)](https://www.tcd.ie/triss/) research centre.
