@@ -30,5 +30,5 @@ permalink: /research/
 
 ## **Pre-PhD Work**
 
-<p style="font-size: 1rem"><b>Concurrent elections and voting behaviour: evidence from an Italian referendum</a></b> (2021), BAFFI CAREFIN Centre Research Paper No. 2021-164. <span style="font-size: 0.8rem"><i>Joint with Francesco Armillei (Bocconi University).</i>
-<br><b>[<a href="https://ideas.repec.org/p/baf/cbafwp/cbafwp21164.html">Paper</a>] [<a href="https://www.dropbox.com/scl/fi/qfq8ris00nvrgiuitv1d1/Paper_elections_summary.pdf?rlkey=ws53nnk8g96mrxfwpvbv8eba4&e=1&dl=0">Non-technical summary</a>]</b></span></p>
+<p style="font-size: 1rem"><b>Concurrent elections and voting behaviour: evidence from an Italian referendum</a></b> (2021), BAFFI CAREFIN Centre Research Paper No. 2021-164. <span style="font-size: 0.8rem"><i>Joint with Francesco Armillei (Bocconi University).</i></span>
+<br><b>[<a href="https://ideas.repec.org/p/baf/cbafwp/cbafwp21164.html">Paper</a>] [<a href="https://www.dropbox.com/scl/fi/qfq8ris00nvrgiuitv1d1/Paper_elections_summary.pdf?rlkey=ws53nnk8g96mrxfwpvbv8eba4&e=1&dl=0">Non-technical summary (Italian)</a>] [<a href="https://www.tortuga-econ.it/wp-content/uploads/2021/01/Laccorpamento-di-referendum-e-altre-elezioni-unanalisi-quantitativa-Tortuga.pdf">Report (Italian)</a>]</b></span></p>
