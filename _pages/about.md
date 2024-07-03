@@ -10,13 +10,13 @@ redirect_from:
 <img src="/images/trinity_4.jpg" width="1000"/>
 
 ## **Welcome to my website!**
-  
-I am a PhD Candidate in Economics at [Trinity College Dublin](https://www.tcd.ie/Economics/), where I am also affiliated to the [Trinity Research in Social Sciences (TRiSS)](https://www.tcd.ie/triss/) research centre.
 
-My research interests lie at the intersection of **political economy**, **environmental economics**, and the **economics of organized crime**.
+<p style="font-size: 1rem">I am a PhD Candidate in Economics at <a href="https://www.tcd.ie/Economics/" target="_blank">Trinity College Dublin</a>, where I am also affiliated to the <a href="https://www.tcd.ie/triss/" target="_blank">Trinity Research in Social Sciences (TRiSS)</a> research centre.</p>
 
-Prior to my PhD studies, I obtained a MSc in Economics and Social Sciences from Bocconi University and a BSc in Economics, Markets and Institutions from the University of Bologna.
+<p style="font-size: 1rem">My research interests lie at the intersection of <b>political economy</b>, <b>environmental economics</b>, and the <b>economics of organized crime</b>.</p>
 
-Here you can learn about my research, teaching experience, and have a look at my CV. You can also get in touch by emailing me at [cavalloe@tcd.ie](mailto:cavalloe@tcd.ie) or follow me on [Twitter](https://x.com/E_Cavallotti).
+<p style="font-size: 1rem">Prior to my PhD studies, I obtained a MSc in Economics and Social Sciences from Bocconi University and a BSc in Economics, Markets and Institutions from the University of Bologna.</p>
 
-I am also founder and co-organizer of the Young Irish Economists Seminar Series (YIESS). Click [here](https://sites.google.com/view/yiess) if you wanna know more and get in touch for the upcoming events.
+<p style="font-size: 1rem">Here you can learn about my <a href="https://enricocavallotti.github.io/research/">research</a>, <a href="https://enricocavallotti.github.io/teaching/">teaching experience</a>, my <a href="https://enricocavallotti.github.io/policy/">policy contributions</a>, and have a look at my <a href="https://enricocavallotti.github.io/cv/">CV</a>. You can also get in touch by emailing me at <a href="mailto:cavalloe@tcd.ie">cavalloe@tcd.ie</a> or follow me on <a href="https://x.com/E_Cavallotti" target="_blank">Twitter</a>.</p>
+
+<p style="font-size: 1rem">I am also founder and co-organizer of the Young Irish Economists Seminar Series <a href="https://sites.google.com/view/yiess" target="_blank">(YIESS)</a>.</p>
