@@ -8,14 +8,12 @@ permalink: /research/
 
 <p style="font-size: 1rem"><b>Green Collars at the Voting Booth: Material Interest and Environmentalist Voting</b><br>
 <span style="font-size: 0.8rem"><i>Joint with Italo Colantone (Bocconi University), Piero Stanig (Bocconi University), Francesco Vona (University of Milan & FEEM).</i><br>
-<b>Status:</b> <i>Draft avilable upon request.</i></span><br>
-<details>
-  <summary><span style="font-size: 0.8rem"> Abstract </span></summary> <br>
-  <blockquote>
-    <span style="font-size: 0.8rem">We study how material interest, as related to individual occupational profiles, affects electoral support for environmental platforms. Specifically, material interest hinges on the extent to which individuals are expected to benefit vs. suffer in a greener economy. We rely on individual-level data from the European Social Survey covering 15 European countries over 2010-2019. These data are combined with scores of "greenness" and "brownness" of occupations. These capture how demanded vs. penalized each given occupation is expected to be as the ecological transition progresses. To isolate exogenous variation in material interest, we do not rely on the greenness and browness of the observed current occupation. Rather, for each individual we compute plausibly exogenous predicted greenness and brownness scores based on the predicted probability to be employed in each possible occupation. We find that individuals with higher predicted greenness vote more for environmentalist and green parties, while the opposite holds for people with higher predicted brownness. We then interact the predicted greenness and browness scores with region-specific, time-varying shifters that capture variation in the opportunities stemming from the ecological transition. We find that individuals residing in regions that are better placed to gain from the green transition tend to have greener preferences as the green transition becomes more salient. This is true in particular for individuals with brown profiles, whose preferences get closer to those of green profiles in such contexts.</span>
-  </blockquote>
- </details>
+<b>Status:</b> <i>Draft avilable upon request.</i><br>
+<details close>
+<summary></b>Abstract</b></summary> We study how material interest, as related to individual occupational profiles, affects electoral support for environmental platforms. Specifically, material interest hinges on the extent to which individuals are expected to benefit vs. suffer in a greener economy. We rely on individual-level data from the European Social Survey covering 15 European countries over 2010-2019. These data are combined with scores of "greenness" and "brownness" of occupations. These capture how demanded vs. penalized each given occupation is expected to be as the ecological transition progresses. To isolate exogenous variation in material interest, we do not rely on the greenness and browness of the observed current occupation. Rather, for each individual we compute plausibly exogenous predicted greenness and brownness scores based on the predicted probability to be employed in each possible occupation. We find that individuals with higher predicted greenness vote more for environmentalist and green parties, while the opposite holds for people with higher predicted brownness. We then interact the predicted greenness and browness scores with region-specific, time-varying shifters that capture variation in the opportunities stemming from the ecological transition. We find that individuals residing in regions that are better placed to gain from the green transition tend to have greener preferences as the green transition becomes more salient. This is true in particular for individuals with brown profiles, whose preferences get closer to those of green profiles in such contexts.</span>
+</details>
 </p>
+
 
 ---
 
