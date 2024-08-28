@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="/images/trinity_6.jpg" width="1000"/>
+<img src="/images/trinity_6.jpg" style="max-height: 50vh;">
 
 ## **Welcome to my website!**
 
