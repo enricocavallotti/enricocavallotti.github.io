@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ### Trinity College Dublin:
-- Quantitative Methods for Economics II (Master) – a.y. 2022/23 | 2023/24
+- Quantitative Methods for Economics II (Master) – a.y. 2022/23, 2023/24
 - Intermediate Economics (Macroeconomics) (Undergraduate) – a.y. 2022/23
-- Intermediate Economics (Microeconomics) (Undergraduate) – a.y. 2021/22 | 2023/24
+- Intermediate Economics (Microeconomics) (Undergraduate) – a.y. 2021/22, 2023/24
 - Mathematics and Statistics (Undergraduate) – a.y. 2021/22
 
 ---
