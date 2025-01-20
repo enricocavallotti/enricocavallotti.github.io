@@ -6,7 +6,7 @@ permalink: /research/
 ---
 ## **Working Papers**
 
-<p style="font-size: 1rem"><b>Green Collars at the Voting Booth: Material Interest and Environmentalist Voting</b><br>
+<p style="font-size: 1rem"><b>Green Collars at the Voting Booth: Material Interest and Environmentalist Voting.</b><br>
 <span style="font-size: 0.8rem"><i>Joint with Italo Colantone (Bocconi University), Piero Stanig (Bocconi University), Francesco Vona (University of Milan & FEEM).</i><br>
 <b>Status:</b> <i>Draft avilable upon request.</i></span><br>
 <details style="margin-top: -0.5rem;">
@@ -22,16 +22,18 @@ permalink: /research/
 
 ## **Work in Progress**
 
-<p style="font-size: 1rem"><b>Climate Shocks and Criminal Business</b></p>
+<p style="font-size: 1rem"><b>Climate Shocks and Criminal Business.</b></p>
 
-<p style="font-size: 1rem"><b>The Political Economy of Collusion: How Organised Crime Captures Political Institutions</b><br>
+<p style="font-size: 1rem"><b>The Political Economy of Collusion: How Organised Crime Captures Political Institutions.</b><br>
 <span style="font-size: 0.8rem"><i>Joint with Livio Di Lonardo (Bocconi University), Nicola Mastrorocco (Bologna University).</i></span></p>
 
-<p style="font-size: 1rem"><b>Natural Disasters at Origin and Immigrants' Political Preferences at Destination</b><br>
+<p style="font-size: 1rem"><b>Natural Disasters at Origin and Immigrants' Political Preferences at Destination.</b><br>
 <span style="font-size: 0.8rem"><i>Joint with Jacopo Bassetto (Bologna University), Teresa Freitas Monteiro (University of Copenhagen).</i></span></p>
 
+<p style="font-size: 1rem"><b>All Along the Watchtower: the Localised Effects of Public Space Protection Orders in London.</b><br>
+<span style="font-size: 0.8rem"><i>Joint with Victoria Biagi (University of Liverpool), Abhinav Khemka (University of Milan, La Statale).</i></span></p>
 
-<p style="font-size: 1rem"><b>Scoring Goals, Spreading Hate: Drivers of Hate Crimes in Germany</b><br>
+<p style="font-size: 1rem"><b>Scoring Goals, Spreading Hate: Drivers of Hate Crimes in Germany.</b><br>
 <span style="font-size: 0.8rem"><i>Joint with Francesco Barilari (Tor Vergata), Matteo Pograxha (Trinity College Dublin).</i></span></p>
 
 ---
