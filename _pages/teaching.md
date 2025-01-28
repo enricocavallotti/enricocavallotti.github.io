@@ -14,6 +14,6 @@ author_profile: true
 ---
 
 ### Bocconi University:
-- European Economic Policy (Undergraduate) – a.y. 2020/21
-- Economics of European Integration (Master) – a.y. 2020/21
-- International Economics and Finance (Undergraduate) – a.y. 2019/20
+- <p style="font-size: 0.8rem">European Economic Policy (Undergraduate) – a.y. 2020/21</p>
+- <p style="font-size: 0.8rem">Economics of European Integration (Master) – a.y. 2020/21</p>
+- <p style="font-size: 0.8rem">International Economics and Finance (Undergraduate) – a.y. 2019/20</p>
