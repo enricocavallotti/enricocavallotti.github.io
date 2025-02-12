@@ -28,13 +28,13 @@ permalink: /research/
 <span style="font-size: 0.8rem"><i>Joint with <a href="https://sites.google.com/view/liviodilonardo/" target="_blank">Livio Di Lonardo</a> (Bocconi), <a href="http://nicolamastrorocco.com" target="_blank">Nicola Mastrorocco</a> (Bologna).</i></span></p>
 
 <p style="font-size: 0.8rem"><b>Natural Disasters at Origin and Immigrants' Political Preferences at Destination.</b><br>
-<span style="font-size: 0.8rem"><i>Joint with Jacopo Bassetto (Milan), Teresa Freitas Monteiro (KU).</i></span></p>
+<span style="font-size: 0.8rem"><i>Joint with <a href="https://sites.google.com/view/jacopobassetto/home?authuser=0" target="_blank">Jacopo Bassetto</a> (Milan), <a href="https://teresafreitasmonteiro.weebly.com" target="_blank">Teresa Freitas Monteiro</a> (KU).</i></span></p>
 
 <p style="font-size: 0.8rem"><b>Order, Please! The Localised Effects of Public Space Protection Orders in London.</b><br>
-<span style="font-size: 0.8rem"><i>Joint with Victoria Biagi (Liverpool), Abhinav Khemka (Milan).</i></span></p>
+<span style="font-size: 0.8rem"><i>Joint with <a href="https://victoriabiagi.github.io" target="_blank">Victoria Biagi</a> (Liverpool), <a href="https://abhinavkhemka.com" target="_blank">Abhinav Khemka</a> (Milan).</i></span></p>
 
 <p style="font-size: 0.8rem"><b>Scoring Goals, Spreading Hate: Drivers of Hate Crimes in Germany.</b><br>
-<span style="font-size: 0.8rem"><i>Joint with Francesco Barilari (Tor Vergata), Matteo Pograxha (Trinity College Dublin).</i></span></p>
+<span style="font-size: 0.8rem"><i>Joint with <a href="https://sites.google.com/view/francesco-barilari/home?authuser=0" target="_blank">Francesco Barilari</a> (Tor Vergata), <a href="https://matteopograxha.com" target="_blank">Matteo Pograxha</a> (Trinity College Dublin).</i></span></p>
 
 ---
 
