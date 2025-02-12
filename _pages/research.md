@@ -7,7 +7,7 @@ permalink: /research/
 ## **Working Papers**
 
 <p style="font-size: 0.8rem"><b>Green Collars at the Voting Booth: Material Interest and Environmentalist Voting.</b><br>
-<span style="font-size: 0.8rem"><i>Joint with Italo Colantone (Bocconi University), Piero Stanig (Bocconi University), Francesco Vona (University of Milan & FEEM).</i><br>
+<span style="font-size: 0.8rem"><i>Joint with <a href="https://sites.google.com/view/italocolantone" target="_blank">Italo Colantone</a> (Bocconi), <a href="https://sites.google.com/site/pierostanig/home" target="_blank">Piero Stanig</a> (Bocconi), <a href="https://sites.google.com/view/francescovona/home" target="_blank">Francesco Vona</a> (Milan).</i><br>
 <b>Status:</b> <i>Draft avilable upon request.</i></span><br>
 <details style="margin-top: -0.5rem;">
   <summary><span style="font-size: 0.8rem"> Abstract </span></summary>
@@ -25,13 +25,13 @@ permalink: /research/
 <p style="font-size: 0.8rem"><b>Droughts in the Fields, Drug Lords on the Hunt: Climate and Criminals.</b></p>
 
 <p style="font-size: 0.8rem"><b>The Political Economy of Collusion: How Organised Crime Captures Political Institutions.</b><br>
-<span style="font-size: 0.8rem"><i>Joint with Livio Di Lonardo (Bocconi University), Nicola Mastrorocco (Bologna University).</i></span></p>
+<span style="font-size: 0.8rem"><i>Joint with <a href="https://sites.google.com/view/liviodilonardo/" target="_blank">Livio Di Lonardo</a> (Bocconi), <a href="http://nicolamastrorocco.com" target="_blank">Nicola Mastrorocco</a> (Bologna).</i></span></p>
 
 <p style="font-size: 0.8rem"><b>Natural Disasters at Origin and Immigrants' Political Preferences at Destination.</b><br>
-<span style="font-size: 0.8rem"><i>Joint with Jacopo Bassetto (Bologna University), Teresa Freitas Monteiro (University of Copenhagen).</i></span></p>
+<span style="font-size: 0.8rem"><i>Joint with Jacopo Bassetto (Milan), Teresa Freitas Monteiro (KU).</i></span></p>
 
 <p style="font-size: 0.8rem"><b>Order, Please! The Localised Effects of Public Space Protection Orders in London.</b><br>
-<span style="font-size: 0.8rem"><i>Joint with Victoria Biagi (University of Liverpool), Abhinav Khemka (University of Milan, La Statale).</i></span></p>
+<span style="font-size: 0.8rem"><i>Joint with Victoria Biagi (Liverpool), Abhinav Khemka (Milan).</i></span></p>
 
 <p style="font-size: 0.8rem"><b>Scoring Goals, Spreading Hate: Drivers of Hate Crimes in Germany.</b><br>
 <span style="font-size: 0.8rem"><i>Joint with Francesco Barilari (Tor Vergata), Matteo Pograxha (Trinity College Dublin).</i></span></p>
