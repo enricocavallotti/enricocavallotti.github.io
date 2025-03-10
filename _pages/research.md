@@ -6,9 +6,9 @@ permalink: /research/
 ---
 ## **Working Papers**
 
-<p style="font-size: 0.8rem"><b>Green Collars at the Voting Booth: Material Interest and Environmentalist Voting.</b><br>
+<p style="font-size: 0.8rem"><b>Green Collars at the Voting Booth: Material Interest and Environmentalist Voting.</b> [<a href="https://www.feem.it/en/publications/green-collars-at-the-voting-booth-material-interest-and-environmental-voting/" target="_blank">FEEM Working Paper</a>]<br>
 <span style="font-size: 0.8rem"><i>Joint with <a href="https://sites.google.com/view/italocolantone" target="_blank">Italo Colantone</a> (Bocconi), <a href="https://sites.google.com/site/pierostanig/home" target="_blank">Piero Stanig</a> (Bocconi), <a href="https://sites.google.com/view/francescovona/home" target="_blank">Francesco Vona</a> (Milan).</i><br>
-<b>Status:</b> <i>Draft avilable upon request.</i></span><br>
+<b>Status:</b> <i>Submitted.</i></span><br>
 <details style="margin-top: -0.5rem;">
   <summary><span style="font-size: 0.8rem"> Abstract </span></summary>
   <blockquote style="margin-top: 0.7rem; border-left: 0.1em solid #d6dfe2;">
