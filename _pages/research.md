@@ -6,8 +6,8 @@ permalink: /research/
 ---
 ## **Working Papers**
 
-<p style="font-size: 0.8rem"><b>Green Collars at the Voting Booth: Material Interest and Environmentalist Voting.</b> [<a href="https://www.feem.it/en/publications/green-collars-at-the-voting-booth-material-interest-and-environmental-voting/" target="_blank">FEEM Working Paper</a>]<br>
-<span style="font-size: 0.8rem"><i>Joint with <a href="https://sites.google.com/view/italocolantone" target="_blank">Italo Colantone</a> (Bocconi), <a href="https://sites.google.com/site/pierostanig/home" target="_blank">Piero Stanig</a> (Bocconi), <a href="https://sites.google.com/view/francescovona/home" target="_blank">Francesco Vona</a> (Milan).</i><br>
+<p style="font-size: 0.8rem"><b>Green Collars at the Voting Booth: Material Interest and Environmentalist Voting.</b><br>
+<span style="font-size: 0.8rem"><i>Joint with <a href="https://sites.google.com/view/italocolantone" target="_blank">Italo Colantone</a> (Bocconi), <a href="https://sites.google.com/site/pierostanig/home" target="_blank">Piero Stanig</a> (Bocconi), <a href="https://sites.google.com/view/francescovona/home" target="_blank">Francesco Vona</a> (Milan).</i> [<a href="https://www.feem.it/en/publications/green-collars-at-the-voting-booth-material-interest-and-environmental-voting/" target="_blank">FEEM Working Paper</a>]<br>
 <b>Status:</b> <i>Submitted.</i></span><br>
 <details style="margin-top: -0.5rem;">
   <summary><span style="font-size: 0.8rem"> Abstract </span></summary>
@@ -41,4 +41,4 @@ permalink: /research/
 ## **Pre-PhD Work**
 
 <p style="font-size: 0.8rem"><b>Concurrent elections and voting behaviour: evidence from an Italian referendum</b> (2021), BAFFI CAREFIN Centre Research Paper No. 2021-164. <span style="font-size: 0.8rem"><i>Joint with <a href="https://www.francescoarmillei.com/home" target="_blank">Francesco Armillei</a> (Bocconi).</i></span>
-<br><span style="font-size: 0.8rem"><a href="https://ideas.repec.org/p/baf/cbafwp/cbafwp21164.html" target="_blank">Paper</a> | <a href="https://www.tortuga-econ.it/wp-content/uploads/2021/01/Laccorpamento-di-referendum-e-altre-elezioni-unanalisi-quantitativa-Tortuga.pdf" target="_blank">Report</a> | <a href="https://www.youtrend.it/2020/10/23/le-regionali-hanno-davvero-influenzato-il-referendum/" target="_blank">On Media</a></span></p>
+<br><span style="font-size: 0.8rem">[<a href="https://ideas.repec.org/p/baf/cbafwp/cbafwp21164.html" target="_blank">Paper</a>] [<a href="https://www.tortuga-econ.it/wp-content/uploads/2021/01/Laccorpamento-di-referendum-e-altre-elezioni-unanalisi-quantitativa-Tortuga.pdf" target="_blank">Report</a>] [<a href="https://www.youtrend.it/2020/10/23/le-regionali-hanno-davvero-influenzato-il-referendum/" target="_blank">On Media</a>]</span></p>
