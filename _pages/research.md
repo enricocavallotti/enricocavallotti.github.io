@@ -35,7 +35,7 @@ permalink: /research/
 <span style="font-size: 0.9rem"><i>Joint with <a href="https://victoriabiagi.github.io" target="_blank">Victoria Biagi</a> (Liverpool), <a href="https://abhinavkhemka.com" target="_blank">Abhinav Khemka</a> (Milan).</i></span></p>
 
 <p style="font-size: 0.9rem"><b>Scoring Goals, Spreading Hate: Drivers of Hate Crimes in Germany.</b><br>
-<span style="font-size: 0.9rem"><i>Joint with <a href="https://sites.google.com/view/francesco-barilari/home?authuser=0" target="_blank">Francesco Barilari</a> (Tor Vergata), <a href="https://matteopograxha.com" target="_blank">Matteo Pograxha</a> (Trinity College Dublin).</i></span></p>
+<span style="font-size: 0.9rem"><i>Joint with <a href="https://sites.google.com/view/francesco-barilari/home?authuser=0" target="_blank">Francesco Barilari</a> (Bocconi), <a href="https://matteopograxha.com" target="_blank">Matteo Pograxha</a> (Trinity College Dublin).</i></span></p>
 
 ---
 
