@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="/images/trinity_7.jpg" style="max-height: 55vh;">
+<img src="/images/Badia-view-to-florence.x0c1736ab cropped.jpg" style="max-height: 55vh;">
 
 ## **Welcome to my website!**
 
