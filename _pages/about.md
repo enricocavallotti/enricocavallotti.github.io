@@ -11,7 +11,7 @@ redirect_from:
 
 ## **Welcome to my website!**
 
-<p style="font-size: 0.9rem; text-align: justify">I am a Max Weber Fellow at the <a href="https://www.eui.eu/en/home" target="_blank">European University Institute</a> and a PhD Candidate in Economics at <a href="https://www.tcd.ie/economics/" target="_blank">Trinity College Dublin</a>. I am also an organizer of the Florence Political Economy Applied Research Lab (<a href="https://www.eui.eu/research-hub?id=florence-pearl-florence-political-economy-applied-research-lab" target="_blank">PEARL</a>).</p>
+<p style="font-size: 0.9rem; text-align: justify">I am a Max Weber Fellow at the <a href="https://www.eui.eu/en/home" target="_blank">European University Institute</a>. I received my PhD in Economics from <a href="https://www.tcd.ie/economics/" target="_blank">Trinity College Dublin</a> in November 2025. I am also an organizer of the Florence Political Economy Applied Research Lab (<a href="https://www.eui.eu/research-hub?id=florence-pearl-florence-political-economy-applied-research-lab" target="_blank">PEARL</a>).</p>
 
 <p style="font-size: 0.9rem; text-align: justify">As an applied microeconomist, my research lies at the intersection of political economy, environmental economics, and the economics of crime. I am particularly interested in how criminal organizations are influenced by climate and how they interact with ecological systems. More broadly, my work explores the determinants of green voting and support for environmental platforms, as well as the drivers of criminal behavior.</p>
 
