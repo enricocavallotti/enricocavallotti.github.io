@@ -10,7 +10,6 @@
 locale                   : "en-US"
 title                    : "Enrico Cavallotti"
 title_separator          : "-"
-link_color               : "black"
 name                     : &name "Enrico Cavallotti"
 description              : &description "personal description"
 url                      : https://enricocavallotti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
