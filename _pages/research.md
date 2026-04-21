@@ -6,7 +6,7 @@ permalink: /research/
 ---
 ## **Working Papers**
 
-<p style="font-size: 0.9rem"><b>Green Collars at the Voting Booth: Material Interest and Environmentalist Voting</b>.<br>
+<p style="font-size: 0.9rem"><b>Green Collars at the Voting Booth: Material Interest and Environmentalist Voting.</b><br>
 <span style="font-size: 0.9rem"><i>Joint with <a href="https://sites.google.com/view/italocolantone" target="_blank">I. Colantone</a>, <a href="https://sites.google.com/site/pierostanig/home" target="_blank">P. Stanig</a>, and <a href="https://sites.google.com/view/francescovona/home" target="_blank">F. Vona</a>.</i></span><br>
 <span style="font-size: 0.9rem">Revise & Resubmit, <i><b>Journal of Politics</b></i> [<a href="https://www.feem.it/en/publications/green-collars-at-the-voting-booth-material-interest-and-environmental-voting/" target="_blank">FEEM Working Paper</a>]</span><br>
 <details style="margin-top: -0.5rem;">
@@ -16,7 +16,7 @@ permalink: /research/
 </p>
 
 <p style="font-size: 0.9rem"><b>Carpe Diem: Economic Shocks, Electoral Cycles, and Violence Against Politicians.</b><br>
-<span style="font-size: 0.9rem"><i>Joint with <a href="https://sites.google.com/view/liviodilonardo/" target="_blank">L. Di Lonardo</a> and <a href="http://nicolamastrorocco.com" target="_blank">N. Mastrorocco</a>.</i><br>
+<span style="font-size: 0.9rem"><i>Joint with <a href="https://sites.google.com/view/liviodilonardo/" target="_blank">L. Di Lonardo</a> and <a href="http://nicolamastrorocco.com" target="_blank">N. Mastrorocco</a>.</i></span><br>
 <details style="margin-top: -0.5rem;">
   <summary><span style="font-size: 0.9rem"> Abstract </span></summary>
     <p style='text-align: justify; font-size: 0.8rem'><em>Organized criminal groups seek to establish close ties with political institutions to influence public policy and redirect public resources toward sectors they can exploit. Yet, when and how do these organizations resort to violence against politicians? We address this question in the context of Italian municipalities and argue that this decision is shaped by the availability and timing of economic rents. We develop a theoretical framework in which criminal groups can engage in violence both before the election, to affect the result, and after the election, to intimidate the winner. We test the model’s predictions using earthquakes as exogenous shocks to municipal resources. Drawing on data on violent episodes against politicians between 2010 and 2020, our estimates show that these shocks lead to more frequent and severe violence, with the timing of the violence systematically shifting across the electoral cycle.</em></p>
