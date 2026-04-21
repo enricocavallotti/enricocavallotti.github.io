@@ -9,6 +9,9 @@ redirect_from:
 ---
 <img src="/images/Badia-view-to-florence.x0c1736ab cropped.jpg" style="max-height: 55vh;">
 
+## **Welcome to my website!**
+
+
 <p style="font-size: 0.9rem; text-align: justify">I am a Max Weber Fellow at the <a href="https://www.eui.eu/en/home" target="_blank">European University Institute</a>. I received my PhD in Economics from <a href="https://www.tcd.ie/economics/" target="_blank">Trinity College Dublin</a>.</p>
 
 <p style="font-size: 0.9rem; text-align: justify">As an applied microeconomist, my research lies at the intersection of political economy, environmental economics, and the economics of crime. I am particularly interested in how criminal organizations are influenced by climate and how they interact with ecological systems. More broadly, my work explores the determinants of green voting and support for environmental platforms, as well as the drivers of criminal behavior.</p>
