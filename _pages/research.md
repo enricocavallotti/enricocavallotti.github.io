@@ -27,7 +27,7 @@ permalink: /research/
 
 ## **Work in Progress**
 
-<p style="font-size: 0.9rem"><b>Climate and Criminal Governance: Evidence from Mexican <i>Narcomedia</i>.</b><br>
+<p style="font-size: 0.9rem"><b>Signaling Criminal Governance: Evidence from Mexican <i>Narcomedia</i>.</b><br>
 <span style="font-size: 0.9rem"><i>Joint with <a href="https://quinoba.github.io/" target="_blank">J. Barrutia</a>.</i></span></p>
 
 <p style="font-size: 0.9rem"><b>Natural Disasters at Origin and Immigrants' Political Preferences at Destination.</b><br>
