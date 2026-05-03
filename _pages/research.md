@@ -23,6 +23,14 @@ permalink: /research/
 </details>
 </p>
 
+<p style="font-size: 0.9rem"><b>The Unintended Political Consequences of Expanding Police Authority: Evidence from London.</b><br>
+<span style="font-size: 0.9rem"><i>Joint with <a href="https://victoriabiagi.github.io" target="_blank">V. Biagi</a> and <a href="https://abhinavkhemka.com" target="_blank">A. Khemka</a>.</i></span><br>
+<details style="margin-top: -0.5rem;">
+  <summary><span style="font-size: 0.9rem"> Abstract </span></summary>
+    <p style='text-align: justify; font-size: 0.8rem'><em>Policies expanding police discretionary authority are widespread and politically contested, yet their effects on police behaviour, institutional trust, and political preferences remain poorly understood. We study Britain’s 2014 Anti-Social Behaviour, Crime and Policing Act, which authorised local councils to implement Public Space Protection Orders (PSPOs), prohibiting broadly defined anti-social activities and expanding officer discretion in designated areas. Using the first comprehensive dataset on PSPO implementation across London census tracts (2016–2024), linked to crime records, stop-and-search data, and electoral outcomes, we exploit PSPOs’ staggered adoption to identify causal effects. These policies increase unproductive police stop-and-search activity, disproportionately targeting non-white residents. Reported anti-social behaviour and other crimes remain unaffected. These findings suggest that vaguely defined discretionary enforcement tools can generate racially unequal policing without delivering the public order benefits that justify their adoption.</em></p>
+</details>
+</p>
+
 ---
 
 ## **Work in Progress**
@@ -32,9 +40,6 @@ permalink: /research/
 
 <p style="font-size: 0.9rem"><b>Natural Disasters at Origin and Immigrants' Political Preferences at Destination.</b><br>
 <span style="font-size: 0.9rem"><i>Joint with <a href="https://sites.google.com/view/jacopobassetto/home?authuser=0" target="_blank">J. Bassetto</a> and <a href="https://teresafreitasmonteiro.weebly.com" target="_blank">T. Freitas Monteiro</a>.</i></span></p>
-
-<p style="font-size: 0.9rem"><b>The Unintended Political Consequences of Expanding Police Authority: Evidence from London.</b><br>
-<span style="font-size: 0.9rem"><i>Joint with <a href="https://victoriabiagi.github.io" target="_blank">V. Biagi</a> and <a href="https://abhinavkhemka.com" target="_blank">A. Khemka</a>.</i></span></p>
 
 <p style="font-size: 0.9rem"><b>Scoring Goals, Spreading Hate: Drivers of Hate Crimes in Germany.</b><br>
 <span style="font-size: 0.9rem"><i>Joint with <a href="https://sites.google.com/view/francesco-barilari/home?authuser=0" target="_blank">F. Barilari</a> and <a href="https://matteopograxha.com" target="_blank">M. Pograxha</a>.</i></span></p>
