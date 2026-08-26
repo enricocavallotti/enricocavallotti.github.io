@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### As a _Part-time Assistant Professor_ at European University Institute:
+### As a _Part-Time Assistant Professor_ at European University Institute:
 <p style="font-size: 0.9rem">❖ Economics of Violence and Crime (PhD) – a.y. 2026/27</p>
 
 ---
