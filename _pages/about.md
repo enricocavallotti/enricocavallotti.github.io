@@ -12,7 +12,7 @@ redirect_from:
 ## **Welcome to my website!**
 
 
-<p style="font-size: 0.9rem; text-align: justify">I am a Max Weber Fellow at the <a href="https://www.eui.eu/en/home" target="_blank">European University Institute</a>, where I am affiliated to the Department of Economics. I received my PhD in Economics from <a href="https://www.tcd.ie/economics/" target="_blank">Trinity College Dublin</a>.</p>
+<p style="font-size: 0.9rem; text-align: justify">I am a Max Weber Postdoctoral Fellow and a Part-Time Assistant Professor at the <a href="https://www.eui.eu/en/home" target="_blank">European University Institute</a>, where I am affiliated to the Department of Economics. I received my PhD in Economics from <a href="https://www.tcd.ie/economics/" target="_blank">Trinity College Dublin</a>.</p>
 
 <p style="font-size: 0.9rem; text-align: justify">As an applied microeconomist, my research lies at the intersection of political economy, environmental economics, and the economics of crime. I am an organizer of the Florence Political Economy Applied Research Lab (<a href="https://www.eui.eu/research-hub?id=florence-pearl-florence-political-economy-applied-research-lab" target="_blank">PEARL</a>).</p>
 
