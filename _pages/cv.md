@@ -9,4 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[Here](/files/CV_Cavallotti.pdf) you can find my CV.
+<p><a href="/files/CV_Cavallotti.pdf" target="_blank">Download CV (PDF)</a></p>
+
+<object data="/files/CV_Cavallotti.pdf#view=FitH" type="application/pdf" width="100%" style="height: 85vh; border: 1px solid #ddd;">
+  <p>Your browser can't display the PDF here. <a href="/files/CV_Cavallotti.pdf" target="_blank">Open the CV</a> instead.</p>
+</object>
