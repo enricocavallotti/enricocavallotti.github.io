@@ -9,8 +9,8 @@ permalink: /research/
   .paper { margin: 0 0 1.6rem; font-size: 0.9rem; line-height: 1.5; }
   .paper-title { font-weight: 600; }
   .paper-meta { color: #666; }
-  .paper details { margin-top: 0.3rem; }
-  .paper summary { cursor: pointer; color: #2581c4; font-size: 0.85rem; }
+  .paper details { margin-top: 0rem; }
+  .paper summary { cursor: pointer; color: #666; font-size: 0.85rem; }
   .paper details p { margin: 0.5rem 0 0; font-size: 0.85rem; color: #555; }
 </style>
 
