@@ -39,3 +39,14 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Links: blue only, underline on hover */
+.page__content a,
+.archive a,
+.archive__item-title {
+  text-decoration: none;
+}
+.page__content a:hover,
+.archive a:hover {
+  text-decoration: underline;
+}
