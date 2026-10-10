@@ -27,7 +27,7 @@ permalink: /research/
 </div>
 
 <div class="paper">
-  <div class="paper-title">Carpe Diem: Economic Shocks, Electoral Cycles, and Violence Against Politicians</div>
+  <div class="paper-title">Carpe Diem: Economic Opportunities and the Timing of Criminal Violence Against Politicians</div>
   <div class="paper-meta">Joint with <a href="https://sites.google.com/view/liviodilonardo/" target="_blank">L. Di Lonardo</a> and <a href="http://nicolamastrorocco.com" target="_blank">N. Mastrorocco</a></div>
   <div class="paper-meta"><i>Draft available upon request</i></div>
   <details>
